@@ -9,6 +9,10 @@
 !*.UVOPT
 !*.UVOPTX
 !*.UV2
+*.dbgconf
+*.uvoptx
+*.uvguix.*
+*.uvgui.*
 
 # Source Files
 !*.A51
