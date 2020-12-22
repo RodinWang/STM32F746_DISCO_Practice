@@ -9,7 +9,7 @@
 * Touch FFT result with display the frequency and power.
 
 ## Recording
-![](https://github.com/RodinWang/STM32F746_DISCO_Practice/Lab2-Microphone_FFT_Analyzer/Recording.jpg)
+![](Recording.jpg)
 
 ## Pause
-![](https://github.com/RodinWang/STM32F746_DISCO_Practice/Lab2-Microphone_FFT_Analyzer/Pause.jpg)
+![](Pause.jpg)
